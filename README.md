@@ -1,4 +1,4 @@
-# 🚀 TragerX - Autonomous Navigation using ROS & Raspberry Pi 3
+# 🚀 TragerX - Autonomous Navigation Trolley
 
 
 

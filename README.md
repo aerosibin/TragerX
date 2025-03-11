@@ -2,7 +2,7 @@
 
 
 
-TragerX is an **ROS-based autonomous navigation system** designed for Raspberry Pi with Ubuntu Server. Using **SLAM, A* Pathfinding, and HC-SR04 Ultrasonic Sensors**, the robot explores unknown environments and navigates efficiently from **Point A to Point B** while avoiding obstacles. 
+TragerX is an **ROS-based autonomous navigation system** designed for Raspberry Pi with Ubuntu Server. Using SLAM, A* Pathfinding, and HC-SR04 Ultrasonic Sensors, the robot explores unknown environments and navigates efficiently from **Point A to Point B** while avoiding obstacles. 
 
 ## 🔥 Key Features
 

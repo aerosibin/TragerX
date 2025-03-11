@@ -44,14 +44,17 @@ TragerX can be applied in **airport trolleys** to assist travelers by autonomous
 
 ## 👨‍💻 Contributors
 - **Sree Sai Raghav**
-- **U Pranov Shanker**
 - **Shakthevell**
+- **U Pranov Shanker**
 - **Sibin Paulraj** 
 
 We welcome contributions! Feel free to fork, create issues, and submit pull requests. 🚀
 
 ## 📜 License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+### 🎥 Demo Video
+[![Watch the Video](https://drive.google.com/file/d/1kYC7qZnJugHmmbDcFfw0_Zb0wkv_mJqY/view?usp=sharing)
 
 ## 🌟 Support
 If you find this project useful, consider **starring the repo ⭐** and sharing it with others!

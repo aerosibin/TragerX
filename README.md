@@ -51,7 +51,7 @@ TragerX is ideal for environments like **airports**, where autonomous trolleys c
 ## 👨‍💻 Contributors
 
 - **Sree Sai Raghav**  
-- **Shakthevell**  
+- **Shakthevell M**  
 - **U Pranov Shanker**  
 - **Sibin Paulraj**
 

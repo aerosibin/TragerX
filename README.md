@@ -4,6 +4,12 @@ TragerX is an **ROS-based autonomous navigation system** designed for Raspberry 
 
 ---
 
+## 🎥 Demo Video
+
+
+
+https://github.com/user-attachments/assets/de0aa525-c804-44fe-bf85-d67cde0c4bd4
+
 ## 🔥 Key Features
 
 ### 🌍 Simultaneous Localization and Mapping (SLAM)
@@ -65,9 +71,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 🎥 Demo Video
 
-[![Watch the Demo Video](https://drive.google.com/file/d/1zD2VkdZcTOZjkl9Ch24ykw5aXjkH-O67/view?usp=sharing)
+
+
 
 ---
 

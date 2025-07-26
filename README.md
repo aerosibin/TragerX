@@ -67,7 +67,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 🎥 Demo Video
 
-[![Watch the Demo Video](https://drive.google.com/file/d/1zD2VkdZcTOZjkl9Ch24ykw5aXjkH-O67/view?usp=sharing)]
+[![Watch the Demo Video](https://drive.google.com/file/d/1zD2VkdZcTOZjkl9Ch24ykw5aXjkH-O67/view?usp=sharing)
 
 ---
 
